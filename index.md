@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Penobit PHP MicroFramework
 
-You can use the [editor on GitHub](https://github.com/penobit/penobit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Penobit](https://penobit.com/) is a Persian Web/App Designer! Penobit has a dedicated CMS to create websites for you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+here is the Penobit-lite Framework - version 0.3.1-beta
 
-### Markdown
+### Easy, LightWeight and focused on Speed
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Penolite
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +28,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Docs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/penobit/penobit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can find Penobit's Framework [Online Documentation](https://penobit.com/open-source/penobit/docs). 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Penobit-lite? Check out our [Contact](https://penobit.com/contact) or [ClientArea](https://my.penobit.com/) and we’ll help you sort it out.
