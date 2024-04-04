@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://penobit.com">
+    <img src="https://avatars.githubusercontent.com/u/60283818?v=4" style="border-radius: 1rem;" width="250">
+  </a>
+</p>
 
-<!--
-**penobit/penobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# penobit
+Penobit is a software development company. Here in penobit we work hard to bring best application development experiences to everyone!
 
-Here are some ideas to get you started:
+## Penobit's Primary Services & Used Technologies
+### Website developement
+- HTML5, CSS3, SASS
+- JavaScript, TypeScript, ReactJS
+- PHP, Laravel
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Application Development
+- Windows
+- Linux
+- MacOS
+- iOS
+- Android
+- Flutter
